@@ -145,14 +145,6 @@ status.head()
 1.  00 will correspond to furnished
 2.  01 will correspond to unfurnished
 3.  10 will correspond to semi-furnished
-
-
-
-
-
-
-
-
 """
 
 # Let's drop the first column from status df using 'drop_first = True'
